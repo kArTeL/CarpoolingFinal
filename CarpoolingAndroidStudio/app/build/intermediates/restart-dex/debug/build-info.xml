@@ -5,32 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="42660410859607"
-    token="4690072117397406209"
-    verifier="BINARY_MANIFEST_FILE_CHANGE" >
+    timestamp="45072212148689"
+    token="764289021034794144"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="347" />
+        duration="327" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="223" />
+        duration="196" />
     <task
         name="verifier"
-        duration="15" />
+        duration="52" />
 
     <artifact
-        location="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/outputs/apk/app-debug.apk"
+        location="/Users/Neil/Documents/src/Android/ProyectoFinal/CarpoolingAndroidStudio/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="42660410859607"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="45072212148689"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/outputs/apk/app-debug.apk"
+            location="/Users/Neil/Documents/src/Android/ProyectoFinal/CarpoolingAndroidStudio/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

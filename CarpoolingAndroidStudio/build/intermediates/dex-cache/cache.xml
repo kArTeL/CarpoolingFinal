@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_9103a9c9c2452e1d1c625b21b21b11dfcb748ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_091556b79eabbbe3f6a1cd036aa8526278df113f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_ef94aca04b3a2b7b22db229ef227c3804e503b1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_859e2e76169cdc7253985457ca2b47f56c7df5a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_be5e613610785b9d6e09173c1a38dcbf8eec8387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_a1fe71095aa933a03e7a12cebf4c10db81197453/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_855eaeaa8bbe1fb8e998b05288f472174878fc22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_bb8d0ec522946c47663c6c92594404c674d78e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_8bdabaa350649b205f7f0d96abad2e9f1a9ad448/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_a850bf6a2a2fe51d9fa4a05f1c8ae5425431bd03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_1a19b061d264dc22075860a919e42dccf56de60a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_4282c800237961dd3cc087ba5927b9c630c9a567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_cf0a24b47947469d875faf9ad1089b8ccbedd76d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e722a6a3c5e7664d093426ba57ca6970269b73d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="294db2239b0228027ae517d3e6600e2840c33944">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bfe31e5880d399bbcae5e835158864417b64ed56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_903258ebc1fa86fd6612538f8dfe5fb51ac15341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5700560fe1003624abc5e1e4ef490c0cb29ac8cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_11c68a4f6ad4eee9e7d12964647559dc6045f784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_910608ed2dbaa9251586ad5a35cd6ec7c7402667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_90c0a134dfbea305df020541b8ad97c88acfb30b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_4d639f3e6d0b019d38046c2affb7e0157bc4623c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_a4adac4e023594b0b5f57c1e55ba4ae60f5eb168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_350b5151131f3cea45f9c243f6ffc274d4b7730f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_23209f407109736009816c025799329176d5336c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/libs/JadeAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d4dab97ed63dab96edd7d5e2305cba2208b4db8">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/2/JadeAndroid_30a364573532a346e0f99df079134827fd24325a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_b0fcdee8d30d876bc26bd2369cc34c8890a1214c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_f85a8bdf546dd324e55fcb5a25cb450aa8ddd6fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_341c445749c8b203d72caee09c2d318fce77ecd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_b1c922c47b7e55ffba96530c6437d708622f3b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_4d318169484dbdb4da48a6d387ec9e577d1a1266/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_99455443def04fb082197b9fec79b4b46c4d18e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_b64c7fbbbaa8888368ef25988266348f065e1469/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/libs/chatOntology.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2ef29b68719c7ad620695570fe8ab3ebd21b78c7">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/2/chatOntology_1915576f1f360e5e1a073a3dabbd6c9708fb07fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_9718eb989ed6b809cab8f3857b564de6c024d7df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_778454f0fd8139703c811fe2fff75c9a74d41f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_fb8c02716a2ee85eb813945a42b2945ea2db5195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_66b3664ff73c87ee2438f418b0c26a35bf9215ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_807b0a2457539fbfc22c2a4eda517d729605fd98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_97f3741fa89bc0d15be02cc479ff37bac5098326/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5af655149fae856539d3929dabdbee9b6216f3ee">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_284c82e03b5ba938104c1e3f5801fddaef930285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_a88cd7b5ddb95a83c96e922d6d4f1e0c7797cac3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_b88eaadd849a0501de15418cbae39f36bca95213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_a47a2022442073840c8ed4d3bf0fe5c4ae1734c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_1a0dc42aa5fcb56d0262bc14c017cbc59f78f178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_4a1bbfeab3caecb8c55153c99add51e2d087cc94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_0a1f6557cc0b1fde143d508c1ab381bd0e9c9b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_e22205a8b0eac1a285a60df8e863409a454da130/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_be685427e0f7e47b30f4fa268acc7e5303140ca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_ac6bb78d45646005f567e6771206e108155ec717/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_ffb3333008d152f0a54a96d1b2bd0c1bda8387c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_0dd4ff7af96a1ee362345fe1baba0a7e037b06ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_06d83c20beadff6c5ffde5645a2afcf82a1c7142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_beb8b73ac56094035ec3ce8c969fecb333149fef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_dff4f5467c796b9d2919abaece18a4daf57106ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_fa9a73d66474f6cd717f97b04ef6d5aa7f14c254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_1757ff00447c3a613acdd9bdd26b1f24ce42c0cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_aaa5ac929ee19579031af5f23be67e82a40982f4/classes.dex" />
+    </item>
+
+</items>

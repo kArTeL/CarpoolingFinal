@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/res/merged/debug/menu/chat_menu.xml",
+        "source": "/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/src/main/res/menu/chat_menu.xml"
+    },
+    {
+        "merged": "/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/Neil/Documents/src/Android/CarpoolingAndroidStudio/app/src/main/res/menu/main_menu.xml"
+    }
+]

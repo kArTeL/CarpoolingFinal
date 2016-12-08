@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:weightSum="1"
+    android:paddingTop="20dp"
+              tools:context=".MainActivity">
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_from_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/general_padding">
+
+        <EditText
+            android:id="@+id/edit_nickname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nombre de usuario"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:padding="@dimen/general_padding">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ingresar como pasajero"
+            android:id="@+id/radioButtonPassenger"
+            android:checked="false" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ingresar como conductor"
+            android:id="@+id/radioButtonConductor"
+            android:checked="false" />
+        <Button
+            android:id="@+id/button_chat"
+            style="?android:textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/button_login"
+            android:paddingTop="@dimen/general_padding"
+            android:textStyle="bold"/>
+
+
+        <TextView android:layout_height="wrap_content"
+                  android:id="@+id/infoTextView"
+                  android:paddingTop="@dimen/general_padding"
+                  android:layout_width="wrap_content" android:text="info"></TextView>
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+
+
+</LinearLayout>

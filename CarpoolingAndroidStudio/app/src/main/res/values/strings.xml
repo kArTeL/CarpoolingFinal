@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarPooling APP</string>
+    <string name="app_title_main">CarPooling APP</string>
+    <string name="app_title_settings">CarPooling Settings</string>    
+    <string name="app_title_chat">Conductor</string>    
+    <string name="app_title_participants">Pasajero</string> 
+    <string name="app_title_driver">Conductor</string>   
+
+    <string name="label_nick">Ingresar nombre de usuario</string>
+    <string name="label_host">Host</string>
+    <string name="label_port">Port</string>
+    
+    <string name="button_login">Entrar</string>
+    <string name="button_send">Encontrar mejor viaje</string>
+    <string name="button_add_ride">Agregar viaje</string>
+    <string name="button_use">  use  </string>
+
+    <string name="menu_settings">settings</string>
+    <string name="menu_exit">exit</string>
+    <string name="menu_participants">participants</string>
+    <string name="menu_clear">clear</string>
+    
+    <string name="msg_connecting_to">Connecting to</string>
+    <string name="msg_nickname_in_use">Nickname already in use!</string>
+    <string name="msg_nickname_not_valid">Invalid nickname!</string>
+    <string name="msg_unexpected">Unexpected error!</string>
+    
+    <string name="msg_interface_exc">Internal error!</string>
+    <string name="msg_controller_exc">Server error!</string>
+</resources>
